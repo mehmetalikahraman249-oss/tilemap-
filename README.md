@@ -1,3 +1,3 @@
-# tilemap and caracter png
+# tilemap and character png
 
 tilemap 
